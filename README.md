@@ -5,7 +5,7 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack web develop
 
 Skills: HTML / CSS / JS / REACT / NODE JS / EXPRESS JS / MONGODB
 
-- 🔭 I’m currently working on Inventory Management Project
+- 🔭 I’m currently working on Inventory Management Project😎
 - 🌱 I’m currently learning **something amazing 🔥**
 
 
