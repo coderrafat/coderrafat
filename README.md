@@ -1,8 +1,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br />I'm Ali Rafat</h1>
 <h3 align="center">MERN-stack Web developer. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderkhalide&label=Profile%20views&color=0e75b6&style=flat" alt="coderrafat" /> </p>
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack web developer with a love for creating robust and efficient web applications. My journey in the world of coding began with a fascination for crafting digital solutions that seamlessly blend functionality and user experience.
 
 Skills: HTML / CSS / JS / REACT / NODE JS / EXPRESS JS / MONGODB
 
