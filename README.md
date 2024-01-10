@@ -1,6 +1,5 @@
-### Hi there 👋, i'm Ali Rafat
+###### Hi there 👋, i'm Ali Rafat
 #### MERN-Stack Web Developer.
-![MERN-Stack Web Developer.]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
